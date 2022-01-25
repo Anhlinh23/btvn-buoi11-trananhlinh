@@ -1,0 +1,23 @@
+
+/*
+body{
+    background: #f5e4e4;
+}
+button{
+    left: 50%;
+    top: 50%;
+    position: absolute;
+    transform: translate(-50%, -50%);
+    font-size: 20px;
+    padding: 25px;
+    background: gainsboro;
+    cursor: pointer;
+}
+
+*/
+
+#btn{
+    width: 96px;
+    height: 48px;
+    font-size: 24px;
+}
